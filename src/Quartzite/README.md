@@ -1,6 +1,4 @@
-# Quartzite 
-
-[![Docs](https://img.shields.io/badge/docs-wiki-blue.svg?style=for-the-badge)](https://github.com/robertcoltheart/Quartzite/wiki) [![NuGet](https://img.shields.io/nuget/v/Quartzite?style=for-the-badge)](https://www.nuget.org/packages/Quartzite) [![Discussions](https://img.shields.io/badge/DISCUSS-ON%20GITHUB-yellow?style=for-the-badge)](https://github.com/robertcoltheart/Quartzite/discussions) [![License](https://img.shields.io/github/license/robertcoltheart/Quartzite?style=for-the-badge)](https://github.com/robertcoltheart/Quartzite/blob/master/LICENSE)
+﻿## About
 
 A thing that does something.
 
@@ -21,6 +19,3 @@ Discuss with us on [Discussions](https://github.com/robertcoltheart/Quartzite/di
 
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
-
-## License
-Quartzite is released under the [MIT License](LICENSE)
